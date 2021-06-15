@@ -1,6 +1,5 @@
 # Serverless URL shortener
 
----
 
 - Leverages the serverless framework to deploy the lambda functions onto AWS
 
