@@ -1,0 +1,6 @@
+{
+    "name": "serverless-url-shortener",
+    "dependencies": {
+        "aws-sdk": "^2.927.0"
+    }
+}
